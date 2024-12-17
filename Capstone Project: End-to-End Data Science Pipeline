@@ -1,0 +1,16 @@
+# Capstone Project: End-to-End Data Science Pipeline
+Problem: Create an end-to-end data science project that involves data wrangling, feature engineering, model building, evaluation, and deployment.
+Objective: Choose a real-world dataset (e.g., customer segmentation, fraud detection, sentiment analysis) and go through all stages of a data science pipeline.
+
+Tasks:
+  •	Collect and clean data.
+  •	Perform exploratory data analysis.
+  •	Build and evaluate multiple machine learning models.
+  •	Deploy the best model in a web application.
+
+Outcome: This project will serve as the final proof of the student’s ability to handle end-to-end data science workflows.
+________________________________________
+
+# Conclusion
+By the end of this course, learners will have experience working on various real-world problems, including data wrangling, predictive modeling, classification, time series forecasting, and deploying machine learning models. They will also have a portfolio of completed projects with source code that can be shared with potential employers.
+
